@@ -1,0 +1,4 @@
+anonymous
+password
+put "test.txt"
+bye
